@@ -1,0 +1,11 @@
+.greeting{
+    color: #34ebdb;
+    text-align:center;
+    background-color:black;
+    font-size:32px;
+}
+
+.background{
+    background-color:red;
+    height:100vh;
+}
